@@ -26,3 +26,22 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.parent-margin {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* btn style */
+.my-btn {
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+
+.increment-btn-wrap {
+  border: 1px solid #333;
+  padding: 15px;
+}
